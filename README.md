@@ -1,5 +1,5 @@
 ***Tic-Tac-Toe in Python***
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 >Welcome to the Tic-Tac-Toe Python project! This simple console-based game allows two players to engage in the classic Tic-Tac-Toe battle.
 
 **Table of Contents**
